@@ -1,0 +1,10 @@
+{
+    "name":"BesterYouTuber",
+    "build": { "dockerfile": "Dockerfile" },
+    "forwardPorts": [ 8080 ],
+    "customizations": {
+        "vscode": {
+            
+        }
+    }
+}
